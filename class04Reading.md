@@ -69,10 +69,7 @@ for this modeling the method is normalizaion for the database.
 
 ### **sequelize API** 
 
-Sequelize is a promise-based Node.js ORM tool for Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server, Amazon Redshift, Snowflake’s Data Cloud, DB2, and IBM i.
-
- It features solid transaction support, relations, eager and lazy loading, read replication and more.
-
+Sequelize is transforming the noSQL database To the SQL (make it SQL).
 
 
 # preview 
