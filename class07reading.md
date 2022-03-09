@@ -54,5 +54,4 @@ Regarding usage, JWT is used at Internet scale. This highlights the ease of clie
 
 ![](./comparing-jwt-vs-saml2.png)
 
-![](./comparing-jwt-vs-saml2 (1).png)
 
