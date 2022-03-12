@@ -7,6 +7,10 @@ This repo will contain all of my reading notes through my ADVANCED-JS course.
 | CLASS READING 04 |   [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class04Reading.md)   | 
 | CLASS READING 05 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class05reading.md) | 
 | CLASS READING 06 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class06reading.md) | 
+| CLASS READING 07 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class07reading.md) | 
+| CLASS READING 08 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/classr08eadng.md) | 
+| CLASS READING 09 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/classReading09.md) | 
+
 
 
 
