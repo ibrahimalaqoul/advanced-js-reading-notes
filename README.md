@@ -20,4 +20,6 @@ This repo will contain all of my reading notes through my ADVANCED-JS course.
 | CLASS READING 18 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class18Reading.md) | 
 | CLASS READING 26 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class26Reading.md) |
 | CLASS READING 27 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class27reading.md) | 
+| CLASS READING 28 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class28Reading.md) | 
+
 
