@@ -24,4 +24,6 @@ This repo will contain all of my reading notes through my ADVANCED-JS course.
 | CLASS READING 29 | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class29reading.md) | 
 | Hash Tables, raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/HashTablesReading.md) | 
 | Class Reading 31, raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/Class%2031Reading.md) | 
+| Class Reading 32, raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class32Reading.md) | 
+| Class Reading 33, raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class33Reading.md) | 
 
