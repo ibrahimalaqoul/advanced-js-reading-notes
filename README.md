@@ -29,4 +29,5 @@ This repo will contain all of my reading notes through my ADVANCED-JS course.
 | Class Reading 34, raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class34Reading.md) | 
 | Class Reading 35, Graph raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/GraphReading.md) | 
 | Class Reading 36, Redux raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class36Reading.md) | 
+| Class Reading 37, combined reducers raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class37Reading.md) | 
 
