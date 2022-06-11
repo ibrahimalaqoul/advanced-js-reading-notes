@@ -32,5 +32,6 @@ This repo will contain all of my reading notes through my ADVANCED-JS course.
 | Class Reading 37, combined reducers raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class37Reading.md) | 
 | Class Reading 38, redux Asynch raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class38Read.md) | 
 | Class Reading 39, redux Toolkit  raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class39Reading.md) | 
+| Class Reading 41, react native  raedme | [click here](https://github.com/ibrahimalaqoul/advanced-js-reading-notes/blob/main/class41Reading.md) | 
 
 
